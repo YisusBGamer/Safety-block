@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU Lesser General Public License v3.0"
+issueTrackerURL="https://github.com/worldprotect/issues"
+
+[[mods]]
+modId="worldprotect"
+version="1.0.0"
+displayName="WorldProtect"
+updateJSONURL=""
+displayURL=""
+logoFile="worldprotect.png"
+credits=""
+authors="WorldProtect Team"
+description='''Region protection and management mod for Minecraft.'''
+
+[[dependencies.worldprotect]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.worldprotect]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.worldprotect]]
+    modId="worldedit"
+    mandatory=false
+    versionRange="[7.2.0,)"
+    ordering="AFTER"
+    side="BOTH"

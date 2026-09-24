@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: worldprotect
+Specification-Vendor: WorldProtect Team
+Specification-Version: 1
+Implementation-Title: worldprotect
+Implementation-Version: 1.0.0
+Implementation-Vendor: WorldProtect Team
+Implementation-Timestamp: 2025-12-21T13:49:24+0100
+
